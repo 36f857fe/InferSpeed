@@ -1,6 +1,6 @@
 # InferSpeed
 
-Comparsions of different models in terms of inference speed (imgs/s) and Top-1 accuracy.
+
 <table class=MsoNormalTable  border=0  cellspacing=0  style="border-collapse:collapse;width:420.0000pt;margin-left:4.6500pt;
 border:none;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style="height:13.5000pt;" ><td width=166  valign=center  nowrap  style="width:124.5000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
 mso-border-left-alt:none;border-right:none;mso-border-right-alt:none;
@@ -150,3 +150,4 @@ border-right:none;mso-border-right-alt:none;border-top:none;
 mso-border-top-alt:none;border-bottom:1.0000pt solid rgb(0,0,0);mso-border-bottom-alt:0.5000pt solid rgb(0,0,0);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;vertical-align:middle;" ><span style="font-family:宋体;color:rgb(0,0,0);font-style:normal;
 font-size:11.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >82.4</font></span><span style="font-family:宋体;color:rgb(0,0,0);font-style:normal;
 font-size:11.0000pt;mso-font-kerning:1.0000pt;" ><o:p></o:p></span></p></td></tr></table>
+Comparsions of different models in terms of inference speed (imgs/s) and Top-1 accuracy.
